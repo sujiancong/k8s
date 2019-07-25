@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.9.0 
+FROM k8s.gcr.io/kube-apiserver:v1.15.1 
 MAINTAINER sujiancong
